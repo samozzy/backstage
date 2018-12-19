@@ -1,5 +1,7 @@
 # New Theatre Backstage Catalogue
 
+# Archived and now exists at [the New Theatre organisation](http://github.com/newtheatre/backstage)
+
 [Jekyll](http://jekyllrb.com/) based site to catalogue set, props and costumes. Based on [lx](http://github.com/newtheatre/lx)
 
 ![Screenshot](https://github.com/samozzy/backstage/blob/gh-pages/backstage.png?raw=true)
